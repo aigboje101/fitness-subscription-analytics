@@ -1,7 +1,5 @@
 # fitness-subscription-analytics
-T10 Sprint 7 Project
-
-Analysis Summaries
+T10 Sprint 7 Project Analysis Summaries
 
 Customer Cohort Analysis:
 
