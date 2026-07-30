@@ -11,4 +11,4 @@ Our chart shows an expected Revenue rise to almost 0.35M by the end of 2026. We 
 
 CAC vs. LTV:
 
-2024 Cohorts were able to stay well above their Break Even. The 2025 Cohorts only reached their Break-Even in November.
+2024 Cohorts were able to meet their Break-Even in December 2024. The 2025 Cohorts only reached their Break-Even in December 2025, around the same date as the 2024 Cohorts in 2024. 
